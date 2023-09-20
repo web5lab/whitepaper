@@ -11,7 +11,7 @@
 
 ## Why PINKHIPPO ?
 
-* [PINKHIPPO Army](why-pinkhippo/redpepe-army.md)
+* [PINKHIPPO ARMY](why-pinkhippo/pinkhippo-army.md)
 * [Event Organisation Platform](why-pinkhippo/gaming-platform.md)
 * [Billboard Ad](why-pinkhippo/billboard-ad.md)
 
