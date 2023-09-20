@@ -1,18 +1,18 @@
 # Table of contents
 
-* [Meet the REDPEPE](README.md)
+* [Meet the PinkiHippo](README.md)
 
 ## Introduction
 
 * [The birth of RPEPE](introduction/the-birth-of-rpepe.md)
-* [Why RedPepe](introduction/why-redpepe.md)
+* [Why PinkHippo](introduction/why-redpepe.md)
 * [Use Case](introduction/use-case.md)
 * [Core Team](introduction/core-team.md)
 
 ## Why REDPEPE ?
 
-* [REDPEPE Army](why-redpepe/redpepe-army.md)
-* [Gaming Platform](why-redpepe/gaming-platform.md)
+* [PINKHIPPO Army](why-redpepe/redpepe-army.md)
+* [Event Organisation Platform](why-redpepe/gaming-platform.md)
 * [Billboard Ad](why-redpepe/billboard-ad.md)
 
 ## Fundamentals
