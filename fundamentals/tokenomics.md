@@ -2,7 +2,7 @@
 
 * Tokenomics Model 2
 * &#x20;Premium Subscription Token Token Name: HIPPOSUB (HPS)&#x20;
-* Total Supply: 200,000,000&#x20;
+* Total Supply: 10,00,000,000&#x20;
 * &#x20;Team and Advisors: 15% (vested over 3 years)&#x20;
 * Partnerships and Collaborations: 10% Reserve Fund
 * &#x20;10% Community Rewards and Airdrops: 5%
