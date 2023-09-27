@@ -14,7 +14,7 @@
 
 * Huge Marketing Campaign
 * CoinGecko and CoinMarketCap Campaign
-* Platform Sneak Peeks (2-3 weeks before launch)
+* Platform Sneak Peeks&#x20;
 * 2000 holders
 * Partnerships with influencers
 * Billboard Advertisement in front of SpaceX office
