@@ -22,3 +22,7 @@
 ***
 
 * [telegram](https://t.me/pinkhippo\_global)
+* [Website](https://pinkhippo.world)
+* [Github](https://github.com/pinkhippoworld)
+* [Discord](https://discord.gg/r86Nmg9f)
+* [Twitter](https://twitter.com/pinkhippoworld)
