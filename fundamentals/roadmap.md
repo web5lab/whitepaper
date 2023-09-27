@@ -8,17 +8,17 @@
 * Marketing capaign
 * Consulting and advisor
 * army of PINKHIPPO
-
-
+* Betting platform Beta Release
 
 ## Phase 2:
 
 * Huge Marketing Campaign
-* DEX Launch
 * CoinGecko and CoinMarketCap Campaign
+* Platform Sneak Peeks (2-3 weeks before launch)
 * 2000 holders
 * Partnerships with influencers
 * Billboard Advertisement in front of SpaceX office
+* Early Access Registration
 
 ## Phase 3:
 
@@ -26,11 +26,11 @@
 * Tier 2 CEX Listings
 * 10 Million MarketCap
 * Ads campaign with Crypto Ambassadors
-* Pink Hippo releas Nft Rlease
+* NFT Marketplace release
 
 ## Phase 4:
 
 * Final Event Organization Platform release
 * 200 000 holders
 * 50 Million MarketCap
-
+* Top 10 in memecoin category
