@@ -7,8 +7,7 @@
 * Whitepaper release
 * Marketing capaign
 * Consulting and advisor
-* army of PINKHIPPO
-* Betting platform Beta Release
+* army of PINK HIPPO
 
 ## Phase 2:
 
