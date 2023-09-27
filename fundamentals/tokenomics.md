@@ -1,6 +1,6 @@
 # Tokenomics
 
-## Premium Subscription
+## Premium Subscription Token
 
 1. Token Token Name: Pink Hippo (PH)
 2. &#x20;Total Supply: 10 billion PH
