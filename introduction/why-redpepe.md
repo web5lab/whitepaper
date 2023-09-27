@@ -1,6 +1,6 @@
 # Why PinkHippo
 
-
+## Features
 
 * Discover the World's Hottest Parties: Explore a vast selection of clubs and events from every corner of the world.
 * Personalized Recommendations: Get event suggestions tailored to your tastes and preferences
