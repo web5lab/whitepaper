@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [The birth of PINKHIPPO](introduction/the-birth-of-rpepe.md)
+* [PINKHIPPO INTRODUCTION](introduction/the-birth-of-rpepe.md)
 * [Why PinkHippo](introduction/why-redpepe.md)
 * [Use Case](introduction/use-case.md)
 * [Core Team](introduction/core-team.md)
@@ -13,7 +13,6 @@
 
 * [PINKHIPPO ARMY](why-pinkhippo/pinkhippo-army.md)
 * [Event Organisation Platform](why-pinkhippo/gaming-platform.md)
-* [Billboard Ad](why-pinkhippo/billboard-ad.md)
 
 ## Fundamentals
 
