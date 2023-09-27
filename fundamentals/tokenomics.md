@@ -1,14 +1,14 @@
 # Tokenomics
 
-* Premium Subscription
+## Premium Subscription
 
-Token Token Name: Pink Hippo (PH)
+1. Token Token Name: Pink Hippo (PH)
+2. &#x20;Total Supply: 10 billion PH
+3. Symbol : PH
+4. Decimal : 18
+5. Network : Binance Smart chain
 
-Total Supply: 10 billion PH
-
-Distribution
-
-
+## Distribution
 
 * Team and Advisors: 15% (vested over 3 years)
 * Partnerships and Collaborations: 10%
