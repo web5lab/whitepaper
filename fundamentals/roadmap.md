@@ -15,7 +15,7 @@
 * CoinGecko and CoinMarketCap Campaign
 * Platform Sneak Peeks&#x20;
 * 2000 holders
-* Partnerships with influencers
+* Partnership in Pink Hippo
 * Early Access Registration
 
 ## Phase 3:
@@ -31,4 +31,4 @@
 * Final Event Organization Platform release
 * 200 000 holders
 * 50 Million MarketCap
-* Top 10 in memecoin category
+* Top 10 in all category
