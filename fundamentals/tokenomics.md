@@ -10,7 +10,7 @@
 
 ## Distribution
 
-* Team and Advisors: 15% (vested over 3 years)
+* Team and Advisors: 15%&#x20;
 * Partnerships and Collaborations: 10%
 * Reserve Fund: 10%
 * Community Rewards and Airdrops: 5%

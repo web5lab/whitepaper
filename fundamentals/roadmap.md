@@ -3,9 +3,9 @@
 ## Phase 1:
 
 * Creation of a PINKHIPPO ideology
-* website creation and launch
+* Website creation and launch
 * Whitepaper release
-* Marketing capaign
+* Marketing campaign
 * Consulting and advisor
 * army of PINK HIPPO
 
@@ -16,7 +16,6 @@
 * Platform Sneak Peeks&#x20;
 * 2000 holders
 * Partnerships with influencers
-* Billboard Advertisement in front of SpaceX office
 * Early Access Registration
 
 ## Phase 3:
