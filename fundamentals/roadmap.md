@@ -15,9 +15,9 @@
 ## Phase 2:
 
 * CoinGecko and CoinMarketCap listning.
-* 2000 holders
-* Partnership in Pink Hippo
-* Early Access Registration
+* 2000 holders.
+* Partnership in Pink Hippo.
+* Early Access Registration.
 * Pink Hippo Army.
 
 
@@ -26,15 +26,15 @@
 
 * Tier 2 listings.
 * 10 Million MarketCap.
-* Ads campaign with Crypto Ambassadors
-* NFT Marketplace release
-* Huge Marketing
+* Ads campaign with Crypto Ambassadors.
+* NFT Marketplace release.
+* Huge Marketing.
 
 ## Phase 4:
 
-* Final Event Organization Platform release
-* Merchendising for community
-* Party starts for the lifetime
-* 200000 holders
-* 50 Million MarketCap
-* Listing on Tier 1 exchanges
+* Final Event Organization Platform release.
+* Merchendising for community.
+* Party starts for the lifetime.
+* 200000 holders.
+* 50 Million MarketCap.
+* Listing on Tier 1 exchanges.
