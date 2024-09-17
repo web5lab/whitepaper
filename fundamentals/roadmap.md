@@ -2,37 +2,39 @@
 
 ## Phase 1:
 
-* Creation of a PINKHIPPO ideology
-* website creation and launch
-* Whitepaper release
-* Marketing capaign
-* Consulting and advisor
-* army of PINKHIPPO
-* Betting platform Beta Release
+* Creation of a PINKHIPPO ideology.
+* Creating and deploying contract.
+* Website creation and launch.
+* Establishing Pink Hippo accounts on social media.
+* Whitepaper release.
+* Huge Marketing campaign.
+* Holding presale on pinksale.
+* Finishing the presale successfully.
+* locking liquidity for 6 months initially.
 
 ## Phase 2:
 
-* Huge Marketing Campaign
-* DEX Launch
-* CoinGecko and CoinMarketCap Campaign
-* 2000 holders
-* Partnerships with influencers
-* Billboard Advertisement in front of SpaceX office
+* CoinGecko and CoinMarketCap listning.
+* 2000 holders.
+* Partnership in Pink Hippo.
+* Early Access Registration.
+* Pink Hippo Army.
 
 
 
 ## Phase 3:
 
-* Merchandising for community
-* Tier 2 CEX Listings
-* Working on P2E game
-* 10 Million MarketCap
-* Ads campaign with Crypto Ambassadors
-* NFT Marketplace release
+* Tier 2 listings.
+* 10 Million MarketCap.
+* Ads campaign with Crypto Ambassadors.
+* NFT Marketplace release.
+* Huge Marketing.
 
 ## Phase 4:
 
-* Final Event Organization Platform release
-* 200 000 holders
-* 50 Million MarketCap
-* Top 10 in memecoin category
+* Final Event Organization Platform release.
+* Merchendising for community.
+* Party starts for the lifetime.
+* 200000 holders.
+* 50 Million MarketCap.
+* Listing on Tier 1 exchanges.
